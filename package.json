@@ -1,0 +1,15 @@
+{
+  "name": "@jocelinofernandes/hl-models",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jocelinofernandes/hl-dtos": "^1.0.0"
+  }
+}
